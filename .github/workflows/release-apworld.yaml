@@ -3,8 +3,8 @@ name: Release AP World
 on: workflow_dispatch
 
 env:
-  AP_WORLD_NAME: Resident Evil 2 Remake
-  AP_WORLD_DIR: residentevil2remake
+  AP_WORLD_NAME: Resident Evil 3 Remake
+  AP_WORLD_DIR: residentevil3remake
   VERSION_NUM: "0.0.0"
   VERSION_NUM_TEXT: 0.0.0
   AP_WORLD_PATH: ""
